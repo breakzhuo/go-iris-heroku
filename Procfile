@@ -1,1 +1,1 @@
-web: iris-heroku
+web: go-iris-heroku
