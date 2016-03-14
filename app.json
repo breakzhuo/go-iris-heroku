@@ -1,0 +1,14 @@
+{
+  "name": "iris-heroku",
+  "description": "A very minimal but flexible golang web application framework, providing a robust set of features for building single & multi-page, web applications.",
+  "keywords": [
+    "getting-started",
+    "go",
+    "sample",
+    "example"
+  ],
+  "image": "heroku/go:1.6",
+  "mount_dir": "",
+  "website": "http://kataras.github.io/iris/",
+  "repository": ""
+}
