@@ -1,6 +1,6 @@
 # go-iris-heroku
 
-[http://kataras.github.io/iris/](Iris web framework) buildpack for heroku. 
+[Iris web framework](http://kataras.github.io/iris/) buildpack for heroku. 
 
 Usage:
 
