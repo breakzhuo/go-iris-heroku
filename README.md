@@ -1,8 +1,10 @@
 # go-iris-heroku
 
-[Iris web framework](http://kataras.github.io/iris/) buildpack for heroku. 
+[Iris web framework](http://kataras.github.io/iris/) buildpack for [Heroku](http://www.heroku.com). 
 
 Usage:
+
+First install the [CLI](https://devcenter.heroku.com/categories/command-line) for Heroku.
 
 ```sh
 $ go get github.com/sger/go-iris-heroku
