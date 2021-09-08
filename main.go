@@ -15,7 +15,7 @@ func main() {
 	}
 
 	iris.Get("/", func(c *iris.Context) {
-		c.HTML("<b> Iris is running... !  good!</b>")
+		c.HTML("<b> Iris is running... !  good! nice! </b>")
 	})
 
 	iris.Listen(port)
